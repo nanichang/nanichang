@@ -3,8 +3,6 @@
 <a href="https://app.daily.dev/nanipaul"><img src="https://api.daily.dev/devcards/7427b1af9ecd4fc5b3862eccbbd6970f.png?r=s2f" width="400" alt="Nanichang Katzing's Dev Card"/></a>
 
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
-
 <!--
 **nanichang/nanichang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
