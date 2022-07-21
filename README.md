@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/nanipaul"><img src="https://api.daily.dev/devcards/7427b1af9ecd4fc5b3862eccbbd6970f.png?r=s2f" width="400" alt="Nanichang Katzing's Dev Card"/></a>
+<a href="https://app.daily.dev/nanichang"><img src="https://api.daily.dev/devcards/7427b1af9ecd4fc5b3862eccbbd6970f.png?r=s2f" width="400" alt="Nanichang Katzing's Dev Card"/></a>
 
 
 <!--
