@@ -10,7 +10,7 @@ I'm Nanichang ... 🧸 zzzzZZZZZZ (Nani for short)
 🐎 My name is Nanichang and I’m a Software Engineer based in Jos Plateau state, Nigeria.
 - 🥂 6 years of software development experience 🌱
 - 🔭 I am currently working on an Internally Generated Revenue platform for Plateau State [[PIRAS]](https://piras.psirs.gov.ng) 
-- 💻 I’m currently writing about Go (Golang) [[Medium]](https://medium.com/@ong-gtp) 
+<!-- - 💻 I’m currently writing about Go (Golang) [[Medium]](https://medium.com/@ong-gtp)  -->
 - 👯 I’m looking to collaborate on backend, frontend or both
 - 🤔 I’m looking for help with finding a community of introverted developers
 - 💬 Ask me about backend developement with Laravel, Nodejs, and Golang
