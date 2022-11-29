@@ -7,7 +7,7 @@ I'm Nanichang ... 🧸 zzzzZZZZZZ (Nani for short)
 
 
 # 💫 About Me:
-🐎 My name is Nanichang and I’m a Software Engineer based in Jos Plateau state, Nigeria.
+👨‍💻 My name is Nanichang and I’m a Software Engineer based in Jos Plateau state, Nigeria.
 - 🥂 6 years of software development experience 🌱
 - 🔭 I am currently working on an Internally Generated Revenue platform for Plateau State [[PIRAS]](https://piras.psirs.gov.ng) 
 - 💻 I’m currently leaning Golang 
