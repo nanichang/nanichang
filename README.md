@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Nanichang ... 🧸 zzzzZZZZZZ (Nani for short)
+I'm Nanichang ... Nani for short
 .
 .
 .
