@@ -32,6 +32,14 @@ I'm Nanichang ... Nani for short
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nanichang&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
+## 🏆 GitHub Commits Graph
+<a href="http://www.github.com/nanichang"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nanichang&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nanichang&label=Profile%20views&color=0e75b6&style=flat" alt="nanichang" /> </p>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
