@@ -14,8 +14,8 @@ I'm Nanichang ... Nani for short
 - 👯 I’m looking to collaborate on backend, frontend or both
 - 🤔 I’m looking for help with finding a community of introverted developers
 - 💬 Ask me about backend developement with Laravel, Nodejs, and Golang
-- 😄 Pronouns: He/Him/His/They
-- ⚡ Fun fact: I like paint ball 
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I like playing paint ball 
 
 
 
